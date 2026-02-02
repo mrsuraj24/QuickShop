@@ -12,6 +12,7 @@ node_modules
 dist
 build
 config.env
+backend/config/config.env
 
 
 
