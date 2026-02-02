@@ -11,6 +11,8 @@ node_modules
 .env
 dist
 build
+config.env
+
 
 
 # --- Environment & secrets ---
